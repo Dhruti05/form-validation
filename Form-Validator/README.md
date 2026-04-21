@@ -11,8 +11,8 @@ A robust client-side validation system. This project demonstrates high-quality U
 
 ## 📸 Project Showcase
 
-| Required Fields | Validation Errors | Success State |
-| :---: | :---: | :---: |
+| Required Fields | Error View 1 | Error View 2 | Success State |
+| :---: | :---: | :---: | :---: |
 | ![Empty](./screenshots/empty.png) | ![Errors](./screenshots/errors1.png) | ![Errors](./screenshots/errors2.png) |![Success](./screenshots/success.png) |
 
 ---
