@@ -5,7 +5,7 @@ A robust client-side validation system. This project demonstrates high-quality U
 ---
 
 ## 🚀 Live Demo
-[▶️ Test the Validator Here](https://Dhruti05.github.io/form-validator/Form-Validator/index.html)
+[▶️ Test the Validator Here](https://dhruti05.github.io/form-validator/Form-Validator/index.html).
 
 ---
 
